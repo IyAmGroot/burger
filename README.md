@@ -11,6 +11,6 @@ This applcation uses Node JS for a web server, with dependecies on Express, Expr
 Data is stored in a mySql database.  The "burgers_db" has one table, "burgers". 
 
 ## Where is This App? ##
-This application is hosted on Heroku.com.  The URL is below:
+This application is hosted on Heroku.  The URL is below:
 
 [https://eat-da-burger-20190217.herokuapp.com/](https://eat-da-burger-20190217.herokuapp.com/)
